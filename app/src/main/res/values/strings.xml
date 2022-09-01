@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">Wanderoute</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+
+    <!-- Wanderrouten -->
+    <string name="add_route">Add Route</string>
+    <string name="add_poi">Add Poi</string>
+    <string name="hint_word">Word...</string>
+    <string name="hint_route_name">Name</string>
+    <string name="hint_word_beginn">Beginn</string>
+    <string name="hint_word_ende">Ende</string>
+    <string name="hint_route_gpx">GPX-Datei</string>
+    <string name="hint_word_dauer">Dauer</string>
+    <string name="button_save">Save</string>
+    <string name="button_delete">Delete</string>
+    <string name="button_edit">Add Poi</string>
+
+    <string name="route_not_saved">Die Route wurde nicht gespeichert.</string>
+    <string name="route_saved">Die Route wurde gespeichert.</string>
+    <string name="route_updated">Die Route wurde aktualisiert.</string>
+    <string name="route_deleted">Die Route wurde gelöscht.</string>
+    <string name="route_edit_error">Die Route konnte nicht aktualisiert werden.</string>
+
+    <string name="poi_not_saved">Der Point of Interest wurde nicht gespeichert.</string>
+    <string name="poi_saved">Der Point of Interest wurde gespeichert.</string>
+    <string name="poi_updated">Der Point of Interest wurde aktualisiert.</string>
+    <string name="poi_deleted">Der Point of Interest wurde gelöscht.</string>
+    <string name="poi_edit_error">Die Point of Interest konnte nicht aktualisiert werden.</string>
+
+    <string name="empty_not_saved">Word not saved because it is empty.</string>
+    <string name="poi_empty_not_saved">Poi not saved because it is empty.</string>
+    <string name="title_activity_list_poi">MainActivity</string>
+    <string name="title_activity_poi_list">PoiListActivity</string>
+
+</resources>
